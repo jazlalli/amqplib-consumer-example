@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "amqplib": "~0.1.1",
+    "when": "~2.7.1"
+  }
+}
